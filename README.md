@@ -5,7 +5,8 @@ So there are not user accounts and follow function. You can challenge after you 
 
 # Checkout [Live Demo](https://twitter-mohamed123.herokuapp.com/)!
 
-![Screenshot](<img width="1434" alt="Screenshot 2022-01-06 at 8 35 48 AM" src="https://user-images.githubusercontent.com/63940676/148417681-e1a6b62b-0bd7-46e3-bb87-9be712cb43b3.png">)
+![Screenshot]("https://user-images.githubusercontent.com/63940676/148417849-5f8784ba-c62c-44ed-a6ea-2f43d4db0b3c.png">
+)
 
 
 # Tech used
